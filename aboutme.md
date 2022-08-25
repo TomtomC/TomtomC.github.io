@@ -16,5 +16,5 @@ What else do you need?
 
 ### My story
 
-Once upon a time, you read this sentence. The End.
+Once upon a time, you read this sentence. The End[.](pug)
 
